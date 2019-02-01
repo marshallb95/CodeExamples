@@ -1,0 +1,242 @@
+10/18/18 21:45
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+ValueError: x must have 1 x k dimensions
+
+Problem 3 (10 points):
+NotImplementedError: Problem 3 Incomplete
+
+Problem 4 (10 points):
+NotImplementedError: Problem 3 Incomplete
+
+Problem 5 (10 points):
+NotImplementedError: Problem 5 Incomplete (KNeighborsClassifier class not found)
+
+Problem 6 (5 points):
+NotImplementedError: Problem 6 Incomplete
+
+Code Quality (5 points):
+Make sure to have comments
+Score += 0
+
+Total score: 5/50 = 10.0%
+
+-------------------------------------------------------------------------------
+
+10/19/18 17:39
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+ValueError: x must have 1 x k dimensions
+
+Problem 3 (10 points):
+NotImplementedError: Problem 3 Incomplete
+
+Problem 4 (10 points):
+NotImplementedError: Problem 3 Incomplete
+
+Problem 5 (10 points):
+NotImplementedError: Problem 5 Incomplete (KNeighborsClassifier class not found)
+
+Problem 6 (5 points):
+NotImplementedError: Problem 6 Incomplete
+
+Code Quality (5 points):
+make sure to have comments in your code
+Score += 0
+
+Total score: 5/50 = 10.0%
+
+-------------------------------------------------------------------------------
+
+10/22/18 17:09
+
+NotImplementedError while loading 'nearest_neighbor.py': Problem 3 Incomplete
+
+-------------------------------------------------------------------------------
+
+10/23/18 16:10
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+KDTNode.__init__() failed to raise a TypeError (got a ValueError instead)
+ValueError: x must be a numpy.ndarray
+
+Problem 3 (10 points):
+IndexError: tuple index out of range
+
+Problem 4 (10 points):
+IndexError: tuple index out of range
+
+Problem 5 (10 points):
+NotImplementedError: Problem 5 Incomplete (KNeighborsClassifier class not found)
+
+Problem 6 (5 points):
+NotImplementedError: Problem 6 Incomplete
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 10/50 = 20.0%
+
+-------------------------------------------------------------------------------
+
+10/23/18 17:12
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+NotImplementedError: Problem 4 Incomplete
+
+Problem 5 (10 points):
+NotImplementedError: Problem 5 Incomplete (KNeighborsClassifier class not found)
+
+Problem 6 (5 points):
+NotImplementedError: Problem 6 Incomplete
+
+Code Quality (5 points):
+Make sure to add comments and get rid of print statements
+Score += 0
+
+Total score: 20/50 = 40.0%
+
+-------------------------------------------------------------------------------
+
+10/24/18 15:09
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+NotImplementedError: Problem 4 Incomplete
+
+Problem 5 (10 points):
+NotImplementedError: Problem 5 Incomplete (KNeighborsClassifier class not found)
+
+Problem 6 (5 points):
+NotImplementedError: Problem 6 Incomplete
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 25/50 = 50.0%
+
+-------------------------------------------------------------------------------
+
+10/24/18 18:30
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (5 points):
+TypeError: 'numpy.int64' object is not iterable
+
+Code Quality (5 points):
+Make sure to delete print statement
+Score += 3
+
+Total score: 43/50 = 86.0%
+
+
+Comments:
+	Check the case where you have one nearest neighbor
+
+-------------------------------------------------------------------------------
+
+10/24/18 22:04
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (5 points):
+TypeError: 'numpy.int64' object is not iterable
+
+Code Quality (5 points):
+Make sure to get rid of print statements
+Score += 3
+
+Total score: 43/50 = 86.0%
+
+
+Comments:
+	Try running a test case for one nearest neighbor
+
+-------------------------------------------------------------------------------
+
+10/25/18 10:17
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+KNeighborsClassifier failed to predict correctly on a 10x10 dataset
+KNeighborsClassifier failed to predict correctly on a 20x10 dataset
+KNeighborsClassifier failed to predict correctly on a 50x5 dataset
+KNeighborsClassifier failed to predict correctly on a 50x10 dataset
+KNeighborsClassifier failed to predict correctly on a 100x5 dataset
+KNeighborsClassifier failed to predict correctly on a 100x10 dataset
+Score += 4
+
+Problem 6 (5 points):
+Score += 5
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 44/50 = 88.0%
+
+-------------------------------------------------------------------------------
+
