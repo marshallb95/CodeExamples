@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="birth">#0000FF</color>
+    <color name = "marriage">#8a2be2</color>
+    <color name = "death">#FF0000</color>
+    <color name = "other">#FFFF00</color>
+    <color name="genOne">#FF0000</color>
+    <color name="genTwo">#FFA500</color>
+    <color name="genThree">#008000</color>
+    <color name="genFour">#4B0082</color>
+    <color name = "male_icon">#add8e6</color>
+    <color name = "female_icon">#ffc0cb</color>
+</resources>
